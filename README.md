@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on zenzoom, a priviate repo that provisions AWS lab activities inside of [Canvas LMS](https://github.com/instructure/canvas-lms)
+🔭 My name is John and I am currenty working on [zenzoom](https://zenzoom.com/), a priviate repo that provisions AWS lab activities inside of [Canvas LMS](https://github.com/instructure/canvas-lms)
 
 <!--
 **JohnKoss/johnkoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
